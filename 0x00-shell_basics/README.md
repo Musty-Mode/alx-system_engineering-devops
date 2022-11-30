@@ -3,3 +3,4 @@
 
 1-listit - displays content list of the current directory
 2-bring_me_home - changes the working directory to the home directory.
+3-listfiles
